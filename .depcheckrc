@@ -1,0 +1,12 @@
+ignores: [
+  "@adapters",
+  "@adapters/*",
+  "@business",
+  "@business/*",
+  "@config",
+  "@config/*",
+  "@ports",
+  "@ports/*",
+  "@utils",
+  "@utils/*"
+]
